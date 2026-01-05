@@ -3672,7 +3672,7 @@
                       "a",
                       {
                         staticClass: "s_f_t",
-                        attrs: { href: "https://t.me/shirohero_portal" },
+                        attrs: { href: "https://t.me/SuperShiro_eth" },
                       },
                       [e._v("Telegram")]
                     ),
@@ -3686,7 +3686,7 @@
                         attrs: {
                           target: "_blank",
                           rel: "noopener",
-                          href: "https://x.com/ShiroMemeOnETH",
+                          href: "https://x.com/SuperShiro_eth",
                         },
                       },
                       [e._v("Twitter")]
@@ -3701,7 +3701,7 @@
                         attrs: {
                           target: "_blank",
                           rel: "noopener",
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x63374767884410303768b7250eb1cf60e0acbace",
                         },
                       },
                       [e._v("Dextools")]
@@ -3716,7 +3716,7 @@
                         attrs: {
                           target: "_blank",
                           rel: "noopener",
-                          href: "https://dexscreener.com/ethereum/0xComingSoon",
+                          href: "https://dexscreener.com/ethereum/0x63374767884410303768b7250eb1cf60e0acbace",
                         },
                       },
                       [e._v("Dexscreener")]
