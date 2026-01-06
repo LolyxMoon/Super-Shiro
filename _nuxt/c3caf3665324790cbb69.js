@@ -1560,7 +1560,7 @@
                     var t = this.$createElement,
                       e = this._self._c || t;
                     return e("h1", { staticClass: "root_title" }, [
-                      e("span", [this._v("Tokenomics")]),
+                      e("span", [this._v("PUMPFUN")]),
                     ]);
                   },
                   function () {
@@ -1577,20 +1577,20 @@
                     return n("div", { staticClass: "awwwards_list en" }, [
                       n("div", { staticClass: "awwwwards_list_c" }, [
                         n("span", [
-                            t._v("Total Supply : 1 Billion Tokens")
+                            t._v("SCROLL DOWN")
                         ]),
                         t._v(" "),
                         n("span", [
-                            t._v("Contract Ownership : Renounced")
+                            t._v("")
                         ]),
                         t._v(" "),
                         n("span", [
-                            t._v("LP tokens 100% : Burned")
+                            t._v("")
                         ]),
                         t._v(" "),
                         n("span", [
                             t._v(
-                            "Buy/Sell Tax : 0%"
+                            ""
                             )
                         ]),
                       ]),

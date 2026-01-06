@@ -3589,19 +3589,19 @@
                 n("div", [
                   n("div", { staticClass: "dm_story s_arch" }, [
                     n("div", { staticClass: "md4" }, [
-                      n("h2", [e._v("How to buy")]),
+                      n("h2", [e._v("Shin-chan’s dog turned superhero")]),
                     ]),
                   ]),
                   e._v(" "),
                   n("div", { staticClass: "dm_story s_webgl" }, [
                     n("div", { staticClass: "md4" }, [
-                      n("h2", [e._v("CREATE WALLET")]),
+                      n("h2", [e._v("A silent guardian with a cape")]),
                     ]),
                     e._v(" "),
                     n("div", { staticClass: "md8" }, [
                       n("p", [
                         e._v(
-                          "Download metamask or your wallet of choice from the app store or Google play for free."
+                          "A good dog. A secret hero."
                         ),
                       ]),
                     ]),
@@ -3609,13 +3609,13 @@
                   e._v(" "),
                   n("div", { staticClass: "dm_story s_perf" }, [
                     n("div", { staticClass: "md4" }, [
-                      n("h2", [e._v("GET SOME ETH")]),
+                      n("h2", [e._v("Smarter and more responsible than humans")]),
                     ]),
                     e._v(" "),
                     n("div", { staticClass: "md8" }, [
                       n("p", [
                         e._v(
-                          "Have ETH in your wallet to switch to $SHIRO. if you don't have any ETH, you can buy directly on metamask, or buy on another excahnge and send it to your wallet."
+                          "The quiet hero of Kasukabe."
                         ),
                       ]),
                     ]),
@@ -3623,13 +3623,13 @@
                   e._v(" "),
                   n("div", { staticClass: "dm_story s_perf" }, [
                     n("div", { staticClass: "md4" }, [
-                      n("h2", [e._v("GO TO UNISWAP")]),
+                      n("h2", [e._v("Uses superpowers to protect the neighborhood")]),
                     ]),
                     e._v(" "),
                     n("div", { staticClass: "md8" }, [
                       n("p", [
                         e._v(
-                          "Open Uniswap. Connect your wallet in your Browser. Paste the $SHIRO token address, select $SHIRO, and confirm"
+                          "Small dog, big responsibility."
                         ),
                       ]),
                     ]),
@@ -3637,13 +3637,13 @@
                   e._v(" "),
                   n("div", { staticClass: "dm_story s_perf" }, [
                     n("div", { staticClass: "md4" }, [
-                      n("h2", [e._v("SWAP FOR $SHIRO")]),
+                      n("h2", [e._v("Comedy-driven hero with a serious attitude")]),
                     ]),
                     e._v(" "),
                     n("div", { staticClass: "md8" }, [
                       n("p", [
                         e._v(
-                          "Swap ETH for $SHIRO. We have zero taxes so you don't need to worry about buying with a specific slippage"
+                          "Not all heroes bark."
                         ),
                       ]),
                       e._v(" "),
@@ -3668,14 +3668,7 @@
                   ]),
                   e._v("\n    ️️"),
                   n("div", [
-                    n(
-                      "a",
-                      {
-                        staticClass: "s_f_t",
-                        attrs: { href: "https://t.me/SuperShiro_eth" },
-                      },
-                      [e._v("Telegram")]
-                    ),
+                    
                   ]),
                   e._v(" "),
                   n("div", [
@@ -3694,38 +3687,16 @@
                   ]),
                   e._v(" "),
                   n("div", [
-                    n(
-                      "a",
-                      {
-                        staticClass: "s_f_t",
-                        attrs: {
-                          target: "_blank",
-                          rel: "noopener",
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x63374767884410303768b7250eb1cf60e0acbace",
-                        },
-                      },
-                      [e._v("Dextools")]
-                    ),
+                  
                   ]),
                   e._v(" "),
                   n("div", [
-                    n(
-                      "a",
-                      {
-                        staticClass: "s_f_t",
-                        attrs: {
-                          target: "_blank",
-                          rel: "noopener",
-                          href: "https://dexscreener.com/ethereum/0x63374767884410303768b7250eb1cf60e0acbace",
-                        },
-                      },
-                      [e._v("Dexscreener")]
-                    ),
+                  
                   ]),
                   e._v(" "),
                   n("small", [
                     e._v(
-                      "Designed & developed in © 2025. All Rights Reserved."
+                      "Designed & developed in © 2026. All Rights Reserved."
                     ),
                   ]),
                 ]), 
