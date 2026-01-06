@@ -3679,7 +3679,7 @@
                         attrs: {
                           target: "_blank",
                           rel: "noopener",
-                          href: "https://x.com/SuperShiro_eth",
+                          href: "https://x.com/SuperShiroSOL",
                         },
                       },
                       [e._v("Twitter")]
